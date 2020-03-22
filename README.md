@@ -3,6 +3,7 @@
 Get the latest version of this repository running the command:
 
 git clone https://github.com/ONLYOFFICE/docker-onlyoffice-nextcloud
+
 cd docker-onlyoffice-nextcloud
 
 Run Docker Compose:
